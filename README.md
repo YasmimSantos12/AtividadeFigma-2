@@ -1,5 +1,4 @@
-"# Aula-2---Aprofundando-no-Universo-Web" 
-Projeto desenvolvido a partir do layout disponibilizado no Figma para a **Aula 02 - Reforçando o Universo Web**.
+
 
         Objetivo
 
